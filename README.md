@@ -19,8 +19,7 @@
 
 ## 📽️ Demo
 
-<video width="100%" height="auto" controls>
-  <source src="assets/Demo.mp4" type="video/mp4">
+<video src="assets/Demo.mp4" width="100%" controls>
   Your browser does not support the video tag.
 </video>
 
