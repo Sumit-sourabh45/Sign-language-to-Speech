@@ -1,5 +1,4 @@
 
-
 <h1 align="center">✋ Sign Language to Speech</h1>
 
 <p align="center">
@@ -19,9 +18,9 @@
 
 ## 📽️ Demo
 
-<video src="assets/Demo.mp4" width="100%" controls>
+[<video src="assets/Demo.mp4" width="100%" controls>
   Your browser does not support the video tag.
-</video>
+</video>](https://github.com/user-attachments/assets/816c0dff-7983-4a33-b8f3-e523c1ed5f0f)
 
 ---
 
